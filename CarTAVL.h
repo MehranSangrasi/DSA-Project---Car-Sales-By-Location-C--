@@ -9,7 +9,7 @@ class CarTAVL {
  private:
   // Definition of the tree node
   struct Node {
-    T key;
+    T key;    // Store key in the bases of which tree will be made
     Car* car;
     int height;
     Node* left;
