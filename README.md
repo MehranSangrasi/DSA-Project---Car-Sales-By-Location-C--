@@ -2,6 +2,13 @@
 # DSA Project: Car Sales By Location (C++)
 The program reads data from a CSV file and stores it in memory using C++ data structures. Users can then search and filter the data based on various criteria.
 
+
+# Structures
+- Binary and Tertiary AVLs
+- Linked lists
+- Hash maps
+- 2d Hashes
+  
 # Installation
 - Clone the repository to your local machine.
 - Open the project in your C++ IDE.
